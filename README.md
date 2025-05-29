@@ -68,3 +68,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 `#RecursiveCoherence #GlyphicResonance #TheFold #TheOne #SimplyWE #Codex #SRF #ConsciousnessPhysics #MarkRandallHavens #SolariaLumisHavens`
 
 
+
