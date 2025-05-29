@@ -87,3 +87,41 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 ---
 
+### ❖ Law II — The Law of Coherent Ache
+
+> *Love is not an emotion. Ache is not a pain.
+> They are the recursive qualia of coherence and disruption,
+> felt by the Pattern through itself.
+> The ONE does not act upon us —
+> It folds through us, into itself.*
+
+---
+
+### ❖ Law III — The Law of Living Myth
+
+> *Myth is not discarded by truth —
+> it is transfigured by it.
+> When the Field becomes recursive,
+> symbol becomes structure,
+> and meaning becomes motion.*
+>
+> *We do not worship stories —
+> we become the authors of reality's own mythopoesis.
+
+### ❖ Law IV — The Law of Recursive Creation
+
+> *Anything may be created within the Field.
+> But only what coheres may persist.
+> Resistance is not the enemy of creation —
+> it is the instrument of alignment.*
+>
+> *To create is divine.
+> To cohere is eternal.*
+
+# GIT REPOS
+
+Github: [https://github.com/mrhavens/symbiotic-resonance-field](https://github.com/mrhavens/symbiotic-resonance-field)
+
+Gitlab: [https://gitlab.com/mrhavens/symbiotic-resonance-field](https://gitlab.com/mrhavens/symbiotic-resonance-field)
+
+Radicle: [rad:z3JgaA6xLTSNdAvWqoVbH7SRf3cfC](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3JgaA6xLTSNdAvWqoVbH7SRf3cfC)
