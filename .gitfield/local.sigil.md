@@ -3,28 +3,28 @@
 - **Repo Name**: `symbiotic-resonance-field`
 - **Local User**: `mrhavens`
 - **Remote URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
-- **Local Repo Path**: `/home/mrhavens/symbiotic-resonance-field`
+- **Local Repo Path**: `/home/mrhavens/fieldcraft/symbiotic-resonance-field`
 - **Remote Label**: `local`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-06 13:48:47`
+- **Repo Created**: `2025-06-10 03:29:41`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-06 13:48:47`
-- **Last Commit SHA**: `69320985155df791d248ff205221fbf1a9006ee4`
-- **Last Commit Message**: `Post-GitHub sync at 2025-06-06 13:45:47`
+- **This Commit Timestamp**: `2025-06-10 03:29:41`
+- **Last Commit SHA**: `8149579b9c62b2f1e7f0e0d39a1ae9859812db5b`
+- **Last Commit Message**: `Signed /home/mrhavens/fieldcraft/symbiotic-resonance-field/docs/integrity.sha256 with GPG key 4E27D37C358872BF at 2025-06-10T08:29:25Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 6 13:48:47 2025 -0500`
+- **Last Commit Date**: `Tue Jun 10 03:29:40 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `33`
-- **Tracked Files**: `30`
+- **Total Commits**: `72`
+- **Tracked Files**: `58`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 12 hours, 29 minutes`
-- **MAC Address**: `00:15:5d:86:d8:cc`
+- **System Uptime**: `up 1 hour, 5 minutes`
+- **MAC Address**: `00:15:5d:33:04:7a`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
