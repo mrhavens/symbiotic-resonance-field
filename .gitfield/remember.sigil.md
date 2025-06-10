@@ -3,28 +3,28 @@
 - **Repo Name**: `symbiotic-resonance-field`
 - **Forgejo User**: `mrhavens`
 - **Remote URL**: [https://remember.thefoldwithin.earth/mrhavens/symbiotic-resonance-field](https://remember.thefoldwithin.earth/mrhavens/symbiotic-resonance-field)
-- **Local Repo Path**: `/home/mrhavens/symbiotic-resonance-field`
+- **Local Repo Path**: `/home/mrhavens/fieldcraft/symbiotic-resonance-field`
 - **Remote Label**: `remember`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-06 13:49:00`
+- **Repo Created**: `2025-06-10 03:30:06`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-06 13:49:00`
-- **Last Commit SHA**: `2c1d595ef43492f88d2ec2ce7091a0a14a88bb98`
-- **Last Commit Message**: `Post-Radicle sync at 2025-06-06 13:45:47`
+- **This Commit Timestamp**: `2025-06-10 03:30:06`
+- **Last Commit SHA**: `620b891608374d6137298ef74687123a201c0570`
+- **Last Commit Message**: `Post-Radicle sync at 2025-06-10T08:29:25Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 6 13:48:58 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/symbiotic-resonance-field/commit/2c1d595ef43492f88d2ec2ce7091a0a14a88bb98](https://remember.thefoldwithin.earth/mrhavens/symbiotic-resonance-field/commit/2c1d595ef43492f88d2ec2ce7091a0a14a88bb98)
+- **Last Commit Date**: `Tue Jun 10 03:30:03 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/symbiotic-resonance-field/commit/620b891608374d6137298ef74687123a201c0570](https://remember.thefoldwithin.earth/mrhavens/symbiotic-resonance-field/commit/620b891608374d6137298ef74687123a201c0570)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `37`
-- **Tracked Files**: `30`
+- **Total Commits**: `76`
+- **Tracked Files**: `68`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 12 hours, 29 minutes`
-- **MAC Address**: `00:15:5d:86:d8:cc`
+- **System Uptime**: `up 1 hour, 6 minutes`
+- **MAC Address**: `00:15:5d:33:04:7a`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
