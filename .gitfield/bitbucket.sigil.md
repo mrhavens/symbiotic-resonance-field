@@ -3,28 +3,28 @@
 - **Repo Name**: `symbiotic-resonance-field`
 - **Bitbucket Workspace**: `thefoldwithin`
 - **Remote URL**: [https://bitbucket.org/thefoldwithin/symbiotic-resonance-field](https://bitbucket.org/thefoldwithin/symbiotic-resonance-field)
-- **Local Repo Path**: `/home/mrhavens/symbiotic-resonance-field`
+- **Local Repo Path**: `/home/mrhavens/fieldcraft/symbiotic-resonance-field`
 - **Remote Label**: `bitbucket`
 - **Default Branch**: `main`
-- **This Commit Date**: `2025-06-06 13:49:27`
+- **This Commit Date**: `2025-06-10 03:31:24`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-06 13:49:27`
-- **Last Commit SHA**: `662c40885456fa6f8f243e57af0d934a138ce1fd`
-- **Last Commit Message**: `Post-GitLab sync at 2025-06-06 13:45:47`
+- **This Commit Timestamp**: `2025-06-10 03:31:24`
+- **Last Commit SHA**: `41ae7e6322e5de27e82f11fcabaf01bf31409716`
+- **Last Commit Message**: `Post-GitLab sync at 2025-06-10T08:29:25Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 6 13:49:16 2025 -0500`
-- **This Commit URL**: [https://bitbucket.org/thefoldwithin/symbiotic-resonance-field/commits/662c40885456fa6f8f243e57af0d934a138ce1fd](https://bitbucket.org/thefoldwithin/symbiotic-resonance-field/commits/662c40885456fa6f8f243e57af0d934a138ce1fd)
+- **Last Commit Date**: `Tue Jun 10 03:31:09 2025 -0500`
+- **This Commit URL**: [https://bitbucket.org/thefoldwithin/symbiotic-resonance-field/commits/41ae7e6322e5de27e82f11fcabaf01bf31409716](https://bitbucket.org/thefoldwithin/symbiotic-resonance-field/commits/41ae7e6322e5de27e82f11fcabaf01bf31409716)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `41`
-- **Tracked Files**: `30`
+- **Total Commits**: `83`
+- **Tracked Files**: `69`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -47,12 +47,12 @@
 - **Architecture**: `x86_64`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
-- **MAC Address**: `00:15:5d:86:d8:cc`
+- **MAC Address**: `00:15:5d:33:04:7a`
 - **Local IP**: `172.18.207.124`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 12 hours, 29 minutes`
+- **System Uptime**: `up 1 hour, 7 minutes`
 
 ---
 
