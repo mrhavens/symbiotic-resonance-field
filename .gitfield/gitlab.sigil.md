@@ -3,28 +3,28 @@
 - **Repo Name**: `symbiotic-resonance-field`
 - **GitLab User**: `mrhavens`
 - **Remote URL**: [https://gitlab.com/mrhavens/symbiotic-resonance-field](https://gitlab.com/mrhavens/symbiotic-resonance-field)
-- **Local Repo Path**: `/home/mrhavens/symbiotic-resonance-field`
+- **Local Repo Path**: `/home/mrhavens/fieldcraft/symbiotic-resonance-field`
 - **Remote Label**: `gitlab`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-06 13:49:15`
+- **Repo Created**: `2025-06-10 03:31:06`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-06 13:49:15`
-- **This Commit SHA**: `5adba4022a98210bdf262da95b0f645e6daa1602`
-- **Last Commit Message**: `Post-Forgejo sync at 2025-06-06 13:45:47`
+- **This Commit Timestamp**: `2025-06-10 03:31:06`
+- **This Commit SHA**: `fe7ca14b944c7e611c3a3b64bd4fc0c504f0bc5d`
+- **Last Commit Message**: `Post-Gitea sync at 2025-06-10T08:29:25Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 6 13:49:02 2025 -0500`
-- **This Commit URL**: [https://gitlab.com/mrhavens/symbiotic-resonance-field/-/commit/5adba4022a98210bdf262da95b0f645e6daa1602](https://gitlab.com/mrhavens/symbiotic-resonance-field/-/commit/5adba4022a98210bdf262da95b0f645e6daa1602)
+- **Last Commit Date**: `Tue Jun 10 03:30:41 2025 -0500`
+- **This Commit URL**: [https://gitlab.com/mrhavens/symbiotic-resonance-field/-/commit/fe7ca14b944c7e611c3a3b64bd4fc0c504f0bc5d](https://gitlab.com/mrhavens/symbiotic-resonance-field/-/commit/fe7ca14b944c7e611c3a3b64bd4fc0c504f0bc5d)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `39`
-- **Tracked Files**: `30`
+- **Total Commits**: `81`
+- **Tracked Files**: `69`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 12 hours, 29 minutes`
-- **MAC Address**: `00:15:5d:86:d8:cc`
+- **System Uptime**: `up 1 hour, 7 minutes`
+- **MAC Address**: `00:15:5d:33:04:7a`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
